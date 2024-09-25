@@ -63,3 +63,4 @@ pip-delete-this-directory.txt
 # Environment variables file
 .env
 .env.*
+.DS_Store
